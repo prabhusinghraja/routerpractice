@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/routerpractice/static/css/main.98e03734.css",
-    "main.js": "/routerpractice/static/js/main.2a9d0a75.js",
+    "main.js": "/routerpractice/static/js/main.9db2791b.js",
     "static/js/787.55864745.chunk.js": "/routerpractice/static/js/787.55864745.chunk.js",
     "static/media/pexels-lisa-fotios-1126728.jpg": "/routerpractice/static/media/pexels-lisa-fotios-1126728.1ca82dbe086ce18a236a.jpg",
     "static/media/pexels-pixabay-259915.jpg": "/routerpractice/static/media/pexels-pixabay-259915.aad47984e6b54527c588.jpg",
@@ -11,11 +11,11 @@
     "static/media/pexels-photomix-company-96627.jpg": "/routerpractice/static/media/pexels-photomix-company-96627.e48cca87963f96f5fcae.jpg",
     "index.html": "/routerpractice/index.html",
     "main.98e03734.css.map": "/routerpractice/static/css/main.98e03734.css.map",
-    "main.2a9d0a75.js.map": "/routerpractice/static/js/main.2a9d0a75.js.map",
+    "main.9db2791b.js.map": "/routerpractice/static/js/main.9db2791b.js.map",
     "787.55864745.chunk.js.map": "/routerpractice/static/js/787.55864745.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98e03734.css",
-    "static/js/main.2a9d0a75.js"
+    "static/js/main.9db2791b.js"
   ]
 }

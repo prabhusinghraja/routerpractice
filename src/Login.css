@@ -1,0 +1,19 @@
+.loginform{
+    background-color: cornflowerblue;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.forgot{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 18px;
+}
+.forgot:hover{
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+}
+input{
+    width: 200px;
+}

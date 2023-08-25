@@ -1,0 +1,59 @@
+.form{
+    padding: 100px 10px 100px 10px;
+    background-color: crimson;
+}
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.form1{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    padding: 8px;
+    border-radius: 8px;
+    border: 2px solid black;
+    margin: 8px;
+    box-shadow: 5px 5px 5px black;
+}
+.form2{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.spl{
+    border-radius: 8px;
+    border: 2px solid black;
+    margin: 8px;
+    box-shadow: 5px 5px 5px black;
+    width: 23%;
+    padding: 10px 5px 70px 10px;
+    text-align: start;
+}
+.head2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 32px;
+    text-decoration: underline;
+}
+.btn1{
+    background-color: aquamarine;
+    color: black;
+    padding: 10px 15px 10px 15px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-weight: 600;
+    margin: 10px;
+    cursor: pointer;
+}
+.btn1:hover{
+    color: aquamarine;
+    border: 2px solid aquamarine;
+    background-color: black;
+}

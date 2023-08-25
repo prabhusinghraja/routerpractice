@@ -1,0 +1,46 @@
+.backimage{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.backimage img{
+    height: 580px;
+    width: 100%;
+}
+.head{
+    display: flex;
+    justify-content: center;
+}
+.discounts{
+    font-size: 800;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 20px ;
+    box-shadow: 10px 20px 55px white ;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    width: 20%;
+    text-align: center;
+}
+.lorem{
+    align-items: center;
+    margin: 20px;
+}
+.loremdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.images img{
+    width: 30%;
+    margin: 25px;
+    border: 10px solid black;
+    height: 350px;
+}

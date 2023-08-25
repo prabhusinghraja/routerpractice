@@ -11,7 +11,7 @@ const Header = () => {
                 </div>
                 <ul className="nav-list">
                     <li>
-                        <Link to="/">Home</Link>
+                        <Link to="/routerpractice">Home</Link>
                     </li>
                     <li>Menu</li>
                     <li>
